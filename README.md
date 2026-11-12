@@ -20,3 +20,7 @@
 插件无需构建。修改 client.js 后运行 node --check client.js，并刷新 DSH Web。
 
 画师补全包含来自 [Anima 2B Style Explorer](https://github.com/ThetaCursed/Anima-Style-Explorer) 的标签。许可见 [第三方声明](THIRD_PARTY_NOTICES.md)。
+
+## 许可
+
+插件采用 [MIT 许可证](LICENSE)。内置画师标签的版权和许可信息见 [第三方声明](THIRD_PARTY_NOTICES.md)。
