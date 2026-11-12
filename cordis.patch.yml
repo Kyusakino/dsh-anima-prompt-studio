@@ -1,0 +1,3 @@
+- insert:
+    - id: prompt-studio
+      name: '@local/prompt-studio'
